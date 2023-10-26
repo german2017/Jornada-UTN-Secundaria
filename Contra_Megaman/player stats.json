@@ -1,0 +1,22 @@
+{
+    "1": {
+        "score": 11000,
+        "hits": 1,
+        "rank": "A"
+    },
+    "2": {
+        "score": 11200,
+        "hits": 2,
+        "rank": "A"
+    },
+    "3": {
+        "score": 0,
+        "hits": 0,
+        "rank": "A"
+    },
+    "boss": {
+        "score": 0,
+        "hits": 0,
+        "rank": "A"
+    }
+}
